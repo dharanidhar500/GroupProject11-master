@@ -1,0 +1,5 @@
+
+k	java:S116"ORename this field "Home" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ν™”υ8όκ½ό0
+
+java:S1845"{Rename method "Notify" to prevent any misunderstanding/clash with method "notify" defined in superclass "java.lang.Object".(Τ‡Π8ύκ½ό0
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Τ‡Π8ÿκ½ό0

@@ -1,0 +1,9 @@
+
+\
+java:S1118
+":Add a private constructor to hide the implicit public one.(éÍğ×úÿÿÿÿ8–‰Ä û0
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÏÌÒ8À‰Ä û0
+Y
+java:S1128"<Remove this unused import 'com.beust.jcommander.Parameters'.(ŠĞÔş8®‹Ä û0
+]
+java:S1128"@Remove this unused import 'org.openqa.selenium.edge.EdgeDriver'.(ìÅ°°8¯‹Ä û0

@@ -1,0 +1,6 @@
+
+k	java:S116"ORename this field "Home" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í™”õ8¤ØóÀû0
+s	java:S116
+"RRename this field "Profile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÂ úÿÿÿÿ8†ç„Áû0
+l	java:S116"PRename this field "Likes" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÑÏ™8ëÛÁû0
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®îŒßıÿÿÿÿ8§ØóÀû0
